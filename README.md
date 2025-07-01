@@ -1,6 +1,5 @@
 ### Hi there 👋
 - @Home: [@River Mao](https://rivermao.com)
-> ![visitors](https://visitor-badge.glitch.me/badge?page_id=vaspike.vaspike&left_color=green&right_color=red)
 
 
 > ![Java](https://img.shields.io/badge/-Java-gray?style=flat-square&logo=java&logoColor=white)
