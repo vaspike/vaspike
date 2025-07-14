@@ -18,8 +18,9 @@
 > ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
 
 
-> ![](https://zinc-profile.songraysmail.workers.dev/?user=vaspike)
-
+> ![](https://github-readme-stats.vercel.app/api?username=vaspike&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaspike&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en)
+>
 <!--
 **vaspike/vaspike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
