@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[rivermao.com](https://rivermao.com)
+[https://rivermao.com](https://rivermao.com)
 
 
 ## Skill Set
