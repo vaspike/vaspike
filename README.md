@@ -1,6 +1,16 @@
 ## Hi there 👋
 
-[https://rivermao.com](https://rivermao.com)
+<div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Open-ource+Enthusiast;Full-stack+Developer;Developing+on+macOS"
+        alt="Typing SVG"
+    />
+</div>
+
+
+[![Visit My Site](https://img.shields.io/badge/Visit%20My%20Site-rivermao.com-00CED1?style=for-the-badge)](https://rivermao.com)
+
+
 
 
 ## Skill Set
