@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Open-ource+Enthusiast;Full-stack+Developer;Developing+on+macOS"
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Open-source+Enthusiast;Full-stack+Developer;Developing+on+macOS"
         alt="Typing SVG"
     />
 </div>
@@ -13,14 +13,9 @@
 
 
 
-## Skill Set
-
-### Recently
+## 🔨
 > ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift&logoColor=white)
 > ![Rust](https://img.shields.io/badge/-Rust-red?style=flat-square&logo=rust&logoColor=white)
-
-### Normal
-
 > ![Java](https://img.shields.io/badge/-Java-gray?style=flat-square&logo=openjdk&logoColor=white)
 > ![Kotlin](https://img.shields.io/badge/-Kotlin-pink?style=flat-square&logo=kotlin&logoColor=white)
 > ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white)
