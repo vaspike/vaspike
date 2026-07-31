@@ -20,9 +20,6 @@
 > ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=vaspike/agtok,vaspike/DevSwitcher2,vaspike/MacEasySymbol&type=date&legend=top-left)](https://www.star-history.com/#vaspike/agtok&vaspike/DevSwitcher2&vaspike/MacEasySymbol&type=date&legend=top-left)
 
 --- 
 
