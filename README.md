@@ -9,17 +9,8 @@
 
 
 --- 
-
-> ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift&logoColor=white)
-> ![Rust](https://img.shields.io/badge/-Rust-red?style=flat-square&logo=rust&logoColor=white)
-> ![Java](https://img.shields.io/badge/-Java-gray?style=flat-square&logo=openjdk&logoColor=white)
-> ![Kotlin](https://img.shields.io/badge/-Kotlin-pink?style=flat-square&logo=kotlin&logoColor=white)
-> ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white)
-> ![Typescript](https://img.shields.io/badge/-Typescript-darkblue?style=flat-square&logo=typescript&logoColor=white)
-> ![Android](https://img.shields.io/badge/-Android-brightgreen?style=flat-square&logo=android&logoColor=white)
-> ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
-
-
+~~Swift Rust Java Kotlin Go Typescript Android Python~~
+![Scared to tears](https://nyx.rivermao.com/img/meme/a8adc7.png)
 
 --- 
 
