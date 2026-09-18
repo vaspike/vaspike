@@ -10,8 +10,9 @@
 
 --- 
 ![Scared to tears](https://nyx.rivermao.com/img/meme/a8adc7.png)
-## ~~My skill stack~~
+## My skill stack
 ~~Swift Rust Java Kotlin Go Typescript Android Python~~
+Everystack
 
 
 
